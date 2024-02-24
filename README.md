@@ -17,6 +17,7 @@ Certified by the tech gods themselves in Azure Data Engineering and IBM Data Sci
 Whether I’m optimizing prices, analyzing strategic hotspots, or just sprinkling ETL magic, I’m all about making data-driven decisions fun. Ready to bring my cheeky expertise to high-impact projects, because let’s face it, who said data can’t have a sense of humor? 😉✨
 
 ### Stalk me across the interwebs 🌍 
+---------
 [![Mail me](https://img.shields.io/badge/abimbolamuritala65@gmail.com-c0392b?style=flat&logo=gmail&logoColor=white)](abimbolamuritala65@gmail.com)
 [![Twitter](https://img.shields.io/badge/@bimbomuri-00ACEE?style=flat&logo=twitter&logoColor=white)](https://twitter.com/bimbomuri)
 [![Blog](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white)](https://bimbomuri.medium.com/)
@@ -25,6 +26,7 @@ Whether I’m optimizing prices, analyzing strategic hotspots, or just sprinklin
 
 
 ### 🛠 Fun Toys in My Coding Playground
+--------
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL"></code>
