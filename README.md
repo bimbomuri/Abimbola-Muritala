@@ -2,11 +2,11 @@
 
 #### You can call me LJ, I am cheeky like that 😁
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=👩🏾‍💻++Welcome+To+My+Cozy+Corner+😁...;❄️+I+am+excited+to+have+you+here+😁+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=++Welcome+To+My+Cozy+Corner+😁...;❄️+I+am+excited+to+have+you+here+😁+...)](https://git.io/typing-svg)
 
 ### Who am I ?
 -----
-I'm the wizard behind the data curtain, juggling Python, SQL, and a dash of magic to turn numbers into real-life adventures. With over 4 years in the data game, I've aced machine learning, A/B testing, and even convinced geospatial analysis to be my BFF.
+I'm the wizard behind the data curtain 👩🏾‍💻, juggling Python, SQL, and a dash of magic to turn numbers into real-life adventures. With over 4 years in the data game, I've aced machine learning, A/B testing, and even convinced geospatial analysis to be my BFF.
 
 Picture this: I'm the maestro who orchestrated an epic symphony of credit score models, recommendation engines, and a Loan Delinquency model that gave default rates a 20% dip – risk management superhero, if you will.
 
