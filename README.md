@@ -1,5 +1,6 @@
-<span style="color: #FF6347; font-family: 'Comic Sans MS', cursive; font-size: 18px;">
-    <strong>Hey world, it's LJ, aka Abimbola, in the mix! 👋🏾</strong>
+
+    ### Hey world, it's LJ, aka Abimbola, in the mix! 👋🏾
+    <span style="color: #FF6347; font-family: 'Comic Sans MS', cursive; font-size: 18px;">
     <br>
     <em>Brace yourself for a dash of data magic and a sprinkle of coding charm! ✨ Cheeky vibes only, folks! 😁</em>
     <br>
