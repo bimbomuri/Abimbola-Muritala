@@ -24,7 +24,9 @@
     <br><br>
     Certified by the tech gods in Azure Data Engineering and IBM Data Science, I'm not just about code; I'm the storyteller-in-chief, translating complex algorithms into tales even grandma would enjoy. 💬👵🏾
     <br><br>
-    Whether I'm optimizing prices, identifying strategic hotspots, or infusing projects with a dash of humor, I'm on a mission to prove that data can indeed have a sense of humor. 😄📊 Ready to join the fun? Let's make data-driven decisions an adventure! 🌟
+    Whether I'm optimizing prices, identifying strategic hotspots, or infusing projects with a dash of humor, I'm on a mission to prove that data can indeed have a sense of humor. 😄📊 
+    <br> <br>
+    Ready to join the fun? Let's make data-driven decisions an adventure! 🌟
 </span>
 <br>
 <br>
