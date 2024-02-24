@@ -1,20 +1,14 @@
 
-    ### Hey world, it's LJ, aka Abimbola, in the mix! 👋🏾
-    <span style="color: #FF6347; font-family: 'Comic Sans MS', cursive; font-size: 18px;">
-    <br>
-    <em>Brace yourself for a dash of data magic and a sprinkle of coding charm! ✨ Cheeky vibes only, folks! 😁</em>
-    <br>
-    <small>Let's dive into the digital groove together and make this portfolio journey one for the books! 🚀</small>
-</span>
-<br>
-<br>
+# Hey world, it's LJ, aka Abimbola, in the mix! 👋🏾  
+Brace yourself for a dash of data magic and a sprinkle of coding charm! ✨ Cheeky vibes only, folks! 😁
 
+Let's dive into the digital groove together and make this portfolio journey one for the books! 🚀
 
 <br>
 <br>
 
 
-<span style="color: #FF9800; font-family: 'Courier New'; font-size: 18px;">
+<span style="color: #FF9800; font-family: 'Courier New'; font-size: 18;">
     <!--<strong>Unveiling the Data Maestro!</strong> -->
     <hr>
     Ever wondered who orchestrates the magic behind the data curtain? Well, that's me – the Python sorceress, SQL savant, and all-around data aficionado. 🧙🏾‍♀️✨ Ready to dive into a world where numbers become real-life adventures?
