@@ -2,7 +2,7 @@
 
 #### You can call me LJ, I am cheeky like that 😁
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=👩🏾‍💻++Welcome+To+My+Cozy+Corner+😁...;🌨️❄️+I+am+excited+to+have+you+here+😁+...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=👩🏾‍💻++Welcome+To+My+Cozy+Corner+😁...;❄️+I+am+excited+to+have+you+here+😁+...)](https://git.io/typing-svg)
 
 ### Who am I ?
 -----
